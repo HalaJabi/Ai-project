@@ -1,0 +1,2 @@
+# Ai-project
+N Queen 
