@@ -1,0 +1,14 @@
+
+t
+java:S3776'"RRefactor this method to reduce its Cognitive Complexity from 91 to the 15 allowed.(”³œ¨úÿÿÿÿ8œÇÌÈú0
+t
+java:S3776|"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(û—’Çşÿÿÿÿ8¯ÇÌÈú0
+N
+java:S1197~",Move the array designators [][] to the type.(Êïç´üÿÿÿÿ8±ÇÌÈú0
+|
+java:S3012‚"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(‰õÍÏúÿÿÿÿ8³ÇÌÈú0
+J
+java:S1197™",Move the array designators [][] to the type.(‡¿Ó†8µÇÌÈú0
+V	java:S106œ"9Replace this use of System.out or System.err by a logger.(˜’Ÿ8·ÇÌÈú0
+V	java:S106"9Replace this use of System.out or System.err by a logger.(²ë§8¸ÇÌÈú0
+U	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(°•Ş8¹ÇÌÈú0

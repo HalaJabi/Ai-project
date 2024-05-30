@@ -1,0 +1,48 @@
+#container{
+    -fx-background-color: linear-gradient(#febb39, #f9503e);
+    -fx-max-width: 600;
+    -fx-max-height: 400;
+}
+#resetBTN{
+    -fx-text-fill: #000;
+    -fx-font-size: 16px;
+    -fx-font-family: Serif Bold;
+    -fx-pref-width: 70;
+    -fx-pref-height: 45;
+    -fx-effect:dropshadow(two-pass-box,#1f1f1f,1,0.5,-3.0,3.0);
+    -fx-background-color: #81f93e;
+}
+#exitBTN{
+    -fx-text-fill: #000;
+    -fx-font-size: 16px;
+    -fx-font-family: Serif Bold;
+    -fx-pref-width: 70;
+    -fx-pref-height: 45;
+    -fx-effect:dropshadow(two-pass-box,#1f1f1f,1,0.5,-3.0,3.0);
+    -fx-background-color: #ff0000;
+}
+.button{
+    -fx-pref-height: 100;
+    -fx-pref-width: 150;
+    -fx-font-size: 50px;
+    -fx-font-family: Serif Bold;
+}
+.label{
+    -fx-text-fill: #000000;
+    -fx-font-size: 20px;
+    -fx-font-family: Serif Bold;
+    -fx-effect: dropshadow(two-pass-box,#AEAEAE,1,0.5,-1.0,1.0);
+}
+#title{
+    -fx-text-fill: #b53ef9;
+    -fx-font-size: 40px;
+    -fx-font-family: Serif Bold;
+    -fx-effect: dropshadow(two-pass-box,#1f1f1f,1,0.5,-2.0,2.0);
+}
+#round,#xPlayerTxt,#oPlayerTxt,#difficultyTxt{
+    -fx-border-style: solid;
+    -fx-border-radius: 2%;
+    -fx-border-width: 2;
+    -fx-border-color: #1f1f1f;
+    -fx-background-color: RGB(251,186,136, 0.5);
+}

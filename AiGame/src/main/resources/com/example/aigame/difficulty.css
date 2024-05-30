@@ -1,0 +1,30 @@
+#difficultyCont{
+    -fx-background-color: linear-gradient(#febb39, #f9503e);
+    -fx-max-width: 600;
+    -fx-max-height: 400;
+}
+.label{
+    -fx-text-fill: #b53ef9;
+    -fx-font-size: 50px;
+    -fx-font-weight: 900;
+    -fx-font-family: Impact,sans-serif;
+    -fx-effect: dropshadow(two-pass-box,#1f1f1f,1,0.5,-4.0,4.0);
+}
+.button{
+    -fx-background-radius:20px;
+    -fx-effect: dropshadow(two-pass-box,#1f1f1f,1,0.5,-10.0,9.0);
+    -fx-pref-width: 250;
+    -fx-pref-height: 60;
+    -fx-font-family: Serif Bold;
+    -fx-font-size: 30;
+    -fx-text-fill:#000000 ;
+}
+#easyBtn{
+    -fx-background-color: #81f93e;
+}
+#mediumBtn{
+    -fx-background-color: #f9b53e;
+}
+#difficultBtn{
+    -fx-background-color: #f93e81;
+}

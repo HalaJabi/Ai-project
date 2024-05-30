@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane fx:id="difficultyCont" fx:controller="com.example.aigame.DifficultyController" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" style="-fx-max-width: 600; -fx-max-height: 400;" stylesheets="@../difficulty.css" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" >
+   <children>
+      <Button fx:id="easyBtn" layoutX="175.0" layoutY="120.0" mnemonicParsing="false" text="Easy Bot" onAction="#easyAction"/>
+      <Button fx:id="mediumBtn" layoutX="175.0" layoutY="207.0" mnemonicParsing="false" text="Medium Bot" onAction="#mediumAction"/>
+      <Button fx:id="difficultBtn" layoutX="175.0" layoutY="296.0" mnemonicParsing="false" text="Difficult Bot" onAction="#difficultAction"/>
+      <Label layoutX="137.0" layoutY="20.0" text="Select Difficulty" />
+      <ImageView fitHeight="45.0" fitWidth="104.0" layoutX="71.0" layoutY="6.0" pickOnBounds="true" preserveRatio="true" style="-fx-opacity: 0.3;">
+         <image>
+            <Image url="@../XO.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="45.0" fitWidth="104.0" layoutX="93.0" layoutY="223.0" pickOnBounds="true" preserveRatio="true" style="-fx-opacity: 0.3;">
+         <image>
+            <Image url="@../XO.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="45.0" fitWidth="104.0" layoutX="430.0" layoutY="251.0" pickOnBounds="true" preserveRatio="true" style="-fx-opacity: 0.3;">
+         <image>
+            <Image url="@../XO.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="45.0" fitWidth="104.0" layoutX="14.0" layoutY="341.0" pickOnBounds="true" preserveRatio="true" style="-fx-opacity: 0.3;">
+         <image>
+            <Image url="@../XO.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="45.0" fitWidth="104.0" layoutX="527.0" layoutY="6.0" pickOnBounds="true" preserveRatio="true" style="-fx-opacity: 0.3;">
+         <image>
+            <Image url="@../XO.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="45.0" fitWidth="104.0" layoutX="510.0" layoutY="162.0" pickOnBounds="true" preserveRatio="true" style="-fx-opacity: 0.3;">
+         <image>
+            <Image url="@../XO.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="45.0" fitWidth="104.0" layoutX="510.0" layoutY="341.0" pickOnBounds="true" preserveRatio="true" style="-fx-opacity: 0.3;">
+         <image>
+            <Image url="@../XO.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="45.0" fitWidth="104.0" layoutX="396.0" layoutY="75.0" pickOnBounds="true" preserveRatio="true" style="-fx-opacity: 0.3;">
+         <image>
+            <Image url="@../XO.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="45.0" fitWidth="104.0" layoutX="14.0" layoutY="128.0" pickOnBounds="true" preserveRatio="true" style="-fx-opacity: 0.3;">
+         <image>
+            <Image url="@../XO.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="45.0" fitWidth="104.0" layoutX="195.0" layoutY="75.0" pickOnBounds="true" preserveRatio="true" style="-fx-opacity: 0.3;">
+         <image>
+            <Image url="@../XO.png" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>
