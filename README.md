@@ -18,5 +18,4 @@ The program is written in Java.
 ![image](https://github.com/HalaJabi/Ai-project/assets/124292985/788d5b6e-0775-4eac-b84e-3439f861db24)
 ![image](https://github.com/HalaJabi/Ai-project/assets/124292985/50f172f3-4adf-4bee-bb9d-eff44ae2abdb)
 # video
-[![AiProject](https://img.youtube.com/vi/yfp3IyyxVs0/0.jpg)](https://youtu.be/yfp3IyyxVs0)
-
+[![Demo](https://img.youtube.com/vi/vzl0PlU6M90/0.jpg)](https://youtu.be/vzl0PlU6M90)
